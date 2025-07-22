@@ -15,6 +15,7 @@ const postcodeMap = {
     "ST": "Abbott",
     "SA": "Abbott",
     "CH": "Nutricia",
+    "NP12": "Nutirica",
 };
 
 function lookupCompany() {
