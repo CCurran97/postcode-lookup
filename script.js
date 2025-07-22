@@ -12,7 +12,9 @@ const postcodeMap = {
     "WR": "Nutricia",
     "BB": "Fresubin",
     "HR": "Abbott",
-    "ST": "Abbott"
+    "ST": "Abbott",
+    "SA": "Abbott",
+    "CH": "Nutricia",
 };
 
 function lookupCompany() {
